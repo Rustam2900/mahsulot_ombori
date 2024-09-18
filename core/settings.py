@@ -216,3 +216,5 @@ JAZZMIN_SETTINGS = {
     # Add a language dropdown into the admin
     "language_chooser": False,
 }
+
+#erfsdfs
