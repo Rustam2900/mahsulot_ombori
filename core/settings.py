@@ -14,7 +14,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-# Application definition
+#  print(hello world )
 
 INSTALLED_APPS = [
     'jazzmin',
